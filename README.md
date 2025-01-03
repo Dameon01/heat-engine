@@ -1,0 +1,1 @@
+hello git hub i am working on a mod for factorio that needs some animations but i am poor at this aspect i have my intital design but i need some help with the animation i hope to make the heat engine core spin while the main body stays still so it looks like the engine is working from the inside with a soft glow effect thanks in advance
