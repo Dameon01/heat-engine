@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.9
+  Bugfixes:
+    - found a bug that prevented the engine from being crafted fixed this now it works 
+    - also now the heat turret produces it own ammo based off heat  
+---------------------------------------------------------------------------------------------------
+Version: 0.0.8
+  Bugfixes:
+     - got engine working again for space age also made wall and turret both use heat 
+---------------------------------------------------------------------------------------------------
+Version: 0.0.7
+  Bugfixes:  
+    - Got the engine to produce 6MW of electric it stores some at night
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+  Major Features: 
+    - First release version

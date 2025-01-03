@@ -1,0 +1,5 @@
+require("prototypes.entity_definitions")
+require("prototypes.heat-wall-definitions")
+require("prototypes.heat-turret")
+--require("prototypes.heat-interface")
+require("prototypes.heat-weapon")

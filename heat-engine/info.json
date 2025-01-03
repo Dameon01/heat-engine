@@ -1,0 +1,12 @@
+{
+    "name": "heat-engine",
+    "version": "0.1.4",
+    "title": "heat-engine",
+    "author": "Felioun",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0", "? space-age"],
+    "description": "Adds a tier of heat engine which is more efficient based off mod from Adiking03. Now includes a heat wall that leeches heat to deal damage. Now with a heat turret and pistol that leech heat from the heat network to make bullets note turrets require line of sight otherwise will not hit enemies might require restart ",
+    "scripts": ["control.lua"]
+}
